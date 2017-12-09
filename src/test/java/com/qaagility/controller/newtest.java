@@ -19,7 +19,7 @@ public class newtest{
   
   @Test
   public void testCalc() {
-   System.out.println("Result",9,9);
+   assertEquals("Result",9,9);
    }
   
 }
