@@ -4,21 +4,21 @@ import static org.junit.Assert.assertEquals;
 
 public class newtest{
 
-  public int testSlow() {
+  public void testSlow() {
    System.out.println("slow");
   
   }
-  public int testSlower() {
+  public void testSlower() {
    System.out.println("slower");
   
   }
-  public int testFast() {
+  public void testFast() {
    System.out.println("Fast");
   
   }
   
   @Test
-  public int testCalc() {
+  public void testCalc() {
    System.out.println("Result",9,9);
   
   }
