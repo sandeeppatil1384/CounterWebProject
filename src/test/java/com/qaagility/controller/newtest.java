@@ -23,8 +23,8 @@ public class newtest{
    }
   
    @Test
-  public void testCalc() {
-   assertEquals("Result",9,9);
+  public void testCalctwo() {
+   assertEquals("Result",10,10);
 }
   
 }
