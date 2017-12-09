@@ -22,4 +22,9 @@ public class newtest{
    assertEquals("Result",9,9);
    }
   
+   @Test
+  public void testCalc() {
+   assertEquals("Result",9,9);
+}
+  
 }
